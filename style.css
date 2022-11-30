@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+hr{
+  margin-left: 10%;
+    border: 5px solid black;
+    margin-top: 100px;
+    width: 1622px;
+    border-radius:5px;
+    background-color: black;
+}
+h1{
+    font-size: 200px;
+}
+h2 {
+    font-size: 100px;
+}
+
+/* display1 */
+.display1{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+#displayImg{
+    margin-top: 515px;
+    margin-left: 0px;
+    width: 734px;
+    height: 395px;
+}
+
+
+/* about styling */
+.about {
+    margin-top: 235px;
+    display: flex;
+}
+
+#aboutImg {
+    width: 572px;
+    height: 726px;
+    margin-left: 89px;
+}
+
+.aboutContent {
+    margin-left: 80px;
+}
+
+/* services styling */
+.services{
+    margin-top: 172px;
+    
+}
+.content {
+    overflow-x: scroll;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+}
+
+.Service {
+    width: 600px;
+    height: 400px;
+    align-items: flex-end;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* contct styling */
+.Contact {
+    margin-top: 100px;
+    text-align: center;
+    padding: 40px;
+    background-color: black;
+    color: white;
+    width: 1728px;
+ height: 1030px;
+ left: 0px;
+ top: 3213px;
+
+
+}
+#fun{
+    width: 692.27px;
+height: 144px;
+left: 518px;
+top: 3314px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 121px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0%;
+    font-family: 'Inter';
+  font-style: normal;
+   font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+input {
+    padding: 5px;
+    background-color: black;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 0px;
+    width: 80px;
+    left: 224.46px;
+    padding: 5px;
+    border-radius: 0%;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
